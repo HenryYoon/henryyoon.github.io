@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master
+    - title: Master in Engineering
       institution: Chung-Ang University, Seoul, Republic of Korea
       year: 2023
       description:
@@ -21,7 +21,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
+    - title: Bachelor in Public Administration
       institution: Hansung University, Seoul, Republic of Korea
       year: 2021
       description:
