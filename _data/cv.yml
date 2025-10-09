@@ -15,18 +15,12 @@
       institution: Chung-Ang University, Seoul, Republic of Korea
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Thesis "International issue analytics system based on document embedding and sentiment analysis"
     - title: Bachelor in Public Administration
       institution: Hansung University, Seoul, Republic of Korea
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Also studied Data Science during coursework.
 
 - title: Experience
   type: time_table
@@ -36,25 +30,23 @@
       year: 2023
       description:
         - I have focused on optimizing AI infrastructure and deployment processes, achieving remarkable results in speed and efficiency. 
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+       
+    - title: Team leader
+      institution: Hotsix Team
+      year: 2022-2023
+      description:
+        - 2023 KPMG Ideation Competition.
+        - Awarded Finalist in the Competition.
+        - https://github.com/kpmg-hotsix/kpmg_hotsix_chatbot
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: Paper Award, Korea Institute of information and Communication Engineering (KIICE)
+    - title: Paper Award
       year: 2021
       items:
-        - Awarded paper: Explainable Fact Checking Model Based on Efficient Transformer
+        - Spring Conference in Korea Institute of information and Communication Engineering (KIICE)
+        - Awarded paper "Explainable Fact Checking Model Based on Efficient Transformer"
 
 - title: Academic Interests
   type: nested_list
@@ -67,8 +59,3 @@
       items:
         - Description 1.
         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
