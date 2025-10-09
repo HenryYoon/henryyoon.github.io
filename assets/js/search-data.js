@@ -48,8 +48,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-i-graduated-master-degree-at-chung-ang-university",
+          title: 'I graduated Master Degree at Chung-Ang University.',
+          description: "",
+          section: "News",},{id: "news-i-joined-airiss-as-an-ai-engineer",
+          title: 'I joined Airiss as an AI Engineer.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
