@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -23,3 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+AIRISS leverages my expertise to optimize and deploy scalable AI models, focusing on efficient infrastructure management and model performance. By securing government GPU partnerships, our team accelerated iteration cycles sevenfold, enabling faster AI model development. My work on PyTorch-to-ONNX conversions reduced deployment sizes by 60% and improved inference speeds significantly. 
+
+With an M.S. in Computer Science from Chung-Ang University, I bring a solid academic foundation to my role. My core competencies include MLOps, model optimization, and production deployment systems. Passionate about bridging the gap between research and real-world applications, I aim to empower organizations with robust, high-performance AI solutions.
